@@ -1,0 +1,12 @@
+# Site settings
+title: Endowment Justice at Yale
+email: yaleendowmentjustice@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "yaleendowmentjustice.org" # the base hostname & protocol for your site
+
+insta_username: yaleendowmentjustice
+github_username: yaleendowmentjustice@gmail.com
+
+# Build settings
+markdown: kramdown
